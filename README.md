@@ -180,7 +180,7 @@ Next, this Jupyter Notebook provides a framework for loading, analyzing, and vis
         ```
     2.  Open `3.post-Scenic.ipynb`.
     3.  Configure the paths and parameters in the "1. Setup" section.
-    4.  Run the cells sequentially.
+    4.  Run the cells sequentially, not all cells may be useful for you such as preprocessing etc.
 
 * **Input**:
     * Expression data (CSV).
